@@ -11,6 +11,7 @@ public class Main {
         min = min - 1;
 
         System.out.println("Max value = " + max);
+        System.out.println("Min value = " + min);
         short maxS = Short.MAX_VALUE;
         short minS = Short.MIN_VALUE;
 

@@ -31,7 +31,5 @@ public class Main {
         int sum;
         sum = a + b;
         System.out.println(sum);
-
-
     }
 }

@@ -12,6 +12,7 @@ public class Main {
 
         System.out.println("Max value = " + max);
         System.out.println("Min value = " + min);
+        System.out.println("Min value = " + min);
         short maxS = Short.MAX_VALUE;
         short minS = Short.MIN_VALUE;
 
@@ -24,6 +25,12 @@ public class Main {
 
         char ch = '\u00A9';
         System.out.println(ch);
+
+        int a=2;
+        int b=5;
+        int sum;
+        sum = a + b;
+        System.out.println(sum);
 
 
     }
